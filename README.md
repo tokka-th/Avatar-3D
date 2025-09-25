@@ -238,3 +238,6 @@ class AVATARTEST_API UMyBlueprintFunctionLibrary : public UBlueprintFunctionLibr
 
 6- Follow the same steps described in the Usage section.
 
+## Packaging
+This repo doesn't contain the .exe to create it you need to package the unreal project
+https://www.youtube.com/watch?v=ERNWO7PTamY
