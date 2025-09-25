@@ -18,9 +18,13 @@ We decide to use Nvidia Omniverse Audio2Face which supports real-time streaming 
 
 5- Python >= 3.8
 
-    
+## 📂 Import Additional Content
+
+1. [Download the ZIP file](https://drive.google.com/file/d/1nX88JmIGyKnesIvr48haR6t4Z9vmSRnv/view?usp=sharing).  
+2. Extract the contents of the ZIP.  
+3. Copy the extracted files into your project’s **Content** folder  
+
 ## Usage
-download this zip file https://drive.google.com/file/d/1nX88JmIGyKnesIvr48haR6t4Z9vmSRnv/view?usp=sharing then extract the file into `Content`
 ### Edit configurations
 #### 1- 🗂 run_headless_a2f.py
 In the code, you will find a line like this:
