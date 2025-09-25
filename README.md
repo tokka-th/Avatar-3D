@@ -20,6 +20,7 @@ We decide to use Nvidia Omniverse Audio2Face which supports real-time streaming 
 
     
 ## Usage
+download this zip file https://drive.google.com/file/d/1nX88JmIGyKnesIvr48haR6t4Z9vmSRnv/view?usp=sharing then extract the file into `Content`
 ### Edit configurations
 #### 1- 🗂 run_headless_a2f.py
 In the code, you will find a line like this:
