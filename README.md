@@ -119,6 +119,8 @@ to launch audio2face_headless and configure the settings
 
 ### Launch Unreal Engine 
 #### 1- Open Unreal Project .uproject
+**Note** 
+you need to install Easy File Dialog plugin from Fab
 #### 2- In the **Content Browser**, navigate to:
     Content/Stylized_Egypt/Maps/
 #### 3- Open the **mainmenumap** level.
